@@ -1,2 +1,0 @@
-client : KNx8Q~iVaGnH5XXHakpqv4o0X-sFD5m7CLmTUbEd
-secret : a1641afe-bad8-4e85-9a09-f7606da51214
